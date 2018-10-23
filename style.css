@@ -1,0 +1,21 @@
+* {
+  font-family: helvetica;
+  background-color: rgb(206, 222, 224);
+}
+
+.top-box {
+  text-align: center;
+  color: white;
+  background-color:rgb(135, 229, 202);
+  font-size:50px;
+  padding:30px;
+  border: 2px solid rgb(58, 132, 78);
+  font-weight: 300;
+}
+
+.bottom-box {
+background-color: rgb(75, 217, 237);
+color: white;
+font-size:20px;
+padding:2px 10px;
+}
